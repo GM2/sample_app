@@ -8,8 +8,6 @@ class StaticPagesController < ApplicationController
   def about
   end
 
-  def us
-  end
 
   def help
   end
